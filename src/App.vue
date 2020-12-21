@@ -20,7 +20,7 @@
       <AccordionTab header="Header II">
         Content 2
       </AccordionTab>
-      <AccordionTab header="Header III">
+      <AccordionTab header="Header III - xxx">
         Content 3
       </AccordionTab>
     </Accordion>
