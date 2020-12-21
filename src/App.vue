@@ -14,10 +14,10 @@
   </div>
   <div>
     <Accordion>
-      <AccordionTab header="Header I">
+      <AccordionTab header="Header I - x">
         Content
       </AccordionTab>
-      <AccordionTab header="Header II">
+      <AccordionTab header="Header II - xx">
         Content 2
       </AccordionTab>
       <AccordionTab header="Header III - xxx">
